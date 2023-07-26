@@ -1,0 +1,10 @@
+num1=eval(input("Enter First number :"))
+num2=eval(input("Enter Second number :"))
+
+print("{} + {} ={}".format(num1,num2,num1+num2))
+print("{} - {} ={}".format(num1,num2,num1-num2))
+print("{} * {} ={}".format(num1,num2,num1*num2))
+print("{} / {} ={}".format(num1,num2,num1/num2))
+print("{} % {} ={}".format(num1,num2,num1%num2))
+print("{} ** {} ={}".format(num1,num2,num1**num2))
+print("{} // {} ={}".format(num1,num2,num1//num2))

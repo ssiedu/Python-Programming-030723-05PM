@@ -1,0 +1,5 @@
+a=eval(input("Enter the value of a :"))
+b=eval(input("Enter the value of b :"))
+print("a =",a)
+print("b =",b)
+print("sum is :",a+b)
