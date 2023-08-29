@@ -1,0 +1,8 @@
+file=open("Myfile2.txt","w")
+name=input("Enter any name :")
+rno=int(input("Enter roll number :"))
+per=eval(input("Enter percentage :"))
+file.write(name+"\t")
+file.write(str(rno)+"\t")
+file.write(str(per))
+file.close()
